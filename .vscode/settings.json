@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "C:\\Users\\Kenny\\.virtualenvs\\recipe-app-api-npcvcqvs\\Scripts\\python.exe"
+    "python.pythonPath": "C:\\Users\\Kenneth\\.virtualenvs\\recipe-app-api-A0GLJ2dc\\Scripts\\python.exe",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
 }
